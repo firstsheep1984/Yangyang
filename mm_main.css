@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Mali');
+body{
+	font-size:20px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align:center;
+}
+
+header{
+	background-color: hsla(340, 81%, 86%,0.7);
+	text-align:center;
+	font-weight:bold;
+	font-size:1.3em;	
+}
+H2{
+	background-color: #cefdab;	
+}
+h2+p{
+	color:#061299;
+	text-align: justify;
+	font-family: 'Mali', cursive;
+	letter-spacing:1px;
+}
+
+.description{font-size:1em;}
+table{
+	font-size:1em;	
+}
+.hours{
+	background-image: url(../images/image1.png);
+	background-position: center top;
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+.hours h2{text-align:left;}
